@@ -16,5 +16,3 @@ A stylish and responsive food delivery website built with pure HTML and CSS usin
 - Responsive Grid System (12-column)
 - AOS (Animate On Scroll)
 - Ionicons
-
-## 📁 Folder Structure
